@@ -10,7 +10,7 @@
 
 
 ### 🖥 스터디 구성원
-|조유나|백광인|태민규|오지은|
-|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/57552154?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/74497253?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65377787?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65931227?v=4" width=150>|
-|[@ucom96](https://github.com/ucom96)|[@RookieAND](https://github.com/RookieAND)|[@alsrb0504](https://github.com/alsrb0504)|[@JeeeunOh](https://github.com/JeeeunOh)|
+|백광인|태민규|오지은|
+|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/74497253?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65377787?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65931227?v=4" width=150>|
+|[@RookieAND](https://github.com/RookieAND)|[@alsrb0504](https://github.com/alsrb0504)|[@JeeeunOh](https://github.com/JeeeunOh)|
