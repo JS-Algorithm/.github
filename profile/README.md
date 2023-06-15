@@ -9,7 +9,7 @@
 
 
 ### 🖥 스터디 구성원
-|백광인|태민규|오지은|장효신|황태환|
-|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/74497253?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65377787?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65931227?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/71035113?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/107744534?v=4" width=150>|
-|[@RookieAND](https://github.com/RookieAND)|[@alsrb0504](https://github.com/alsrb0504)|[@JeeeunOh](https://github.com/JeeeunOh)|[@hyosin-Jang](https://github.com/hyosin-Jang)|[@stakbucks](https://github.com/stakbucks)|
+|오지은|황태환|권가은|이주희|
+|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/65931227?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/107744534?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/65700066?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/104717341?v=4" width=150>|
+|[@JeeeunOh](https://github.com/JeeeunOh)|[@stakbucks](https://github.com/stakbucks)|[@Gaeun-Kwon](https://github.com/Gaeun-Kwon)|[@Doozuu](https://github.com/Doozuu)|
