@@ -9,7 +9,7 @@
 
 
 ### 🖥 스터디 구성원
-|황태환|이주희|장혜원|김영덕|
-|:-:|:-:|:-:|:-:|
-|<img src="https://avatars.githubusercontent.com/u/107744534?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/104717341?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/86519064?v=4" width=150>|<img src="https://avatars.githubusercontent.com/u/46455370?v=4" width=150>|
-|[@stakbucks](https://github.com/stakbucks)|[@Doozuu](https://github.com/Doozuu)|[@Hyeple](https://github.com/Hyeple)|[@youngduck](https://github.com/youngduck)|
+|                                   황태환                                    |                                   이주희                                    |                                   장혜원                                   | 백광인 |
+| :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :----: |
+| <img src="https://avatars.githubusercontent.com/u/107744534?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/104717341?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/86519064?v=4" width=150> | <img src="https://avatars.githubusercontent.com/u/74497253?v=4" width=150> |
+|                 [@stakbucks](https://github.com/stakbucks)                  |                    [@Doozuu](https://github.com/Doozuu)                     |                    [@Hyeple](https://github.com/Hyeple)                    | [@RookieAND](https://github.com/RookieAND) |
